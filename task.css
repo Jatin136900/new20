@@ -1,0 +1,68 @@
+.one
+{
+    width: 500px;
+    height: 700px;
+    color: yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid yellow;
+    background-color: blue;
+    text-transform: capitalize;
+
+}
+.one p
+{
+    
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid green;
+    background-color: chocolate;
+}   
+.two
+{
+    width: 2000px;
+    height: 1400px;
+    color: maroon;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid navy;
+    background-color: yellow;
+    text-transform: capitalize;
+
+}
+.two p
+{
+    color: yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid yellow;
+    background-color: blue;
+
+}
+.three 
+{
+    width: 500px;
+    height: 700px;
+    color: yellow;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid yellow;
+    background-color: blue;
+    text-transform: capitalize;
+
+}
+.three p
+{
+    color: red;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: solid hotpink;
+    background-color: blue;
+}

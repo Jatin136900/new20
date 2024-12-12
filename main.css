@@ -1,0 +1,28 @@
+.one
+{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+    padding: 20 px;
+    margin: 20px;
+    border: solid maroon;
+}
+.two
+{
+    background-color: rgb(169, 74, 90);
+    text-align: center;
+    color: yellow;
+    padding: 20 px;
+    margin: 20px;
+    border: dotted 5px black;
+}
+.two h1
+{
+    text-decoration: lawngreen
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.one h1
+{
+    text-decoration: underline black    ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

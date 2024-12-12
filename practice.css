@@ -1,0 +1,64 @@
+h1
+{
+    color: yellow;
+    background-color: blueviolet;
+    border: 10px dashed maroon;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: solid;
+}
+h2
+{
+    color: red;
+    background-color: black;
+    border: 20px solid yellow;
+    padding: 30px;
+    margin: 40px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 400;
+}
+h3
+{
+    color: yellowgreen;
+    background-color:mediumblue;
+    border: 20px solid khaki;
+    padding: 30px;
+    margin: 40px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+    color: aqua;
+    background-color: midnightblue;
+    border: 10px solid yellow;
+    padding: 05px;
+    margin: 60px;
+    text-align: right;
+    text-transform: lowercase;
+    font-size: 40px;
+    font-weight: 200;
+}
+a
+{
+    color:maroon;
+    background-color: black;
+    border: 5px solid yellow;
+    padding: 60px;
+    margin: 40px;
+    text-align: center;
+    text-transform: none;
+    font-size: 60px;
+    font-weight: 400;
+    text-decoration: none;
+}

@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box
+{
+    width: 200px;
+    height: 200px;
+    /* background-color: #00f; */
+    /* background-color: #f00; */
+
+}
+.liner-gradient{
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(to right red blue green yellow.gold);
+}

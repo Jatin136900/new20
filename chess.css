@@ -1,0 +1,103 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+.one{
+    background-color: black;
+    width: 20%;
+    height: 140px; 
+}
+.main2{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    
+}
+.two{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.three{background-color: black;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.four{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.fifth{
+    background-color: black;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.six{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.one2{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+ 
+
+}
+.two2{
+    background-color: black;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.three2{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.four2{
+    background-color: black;
+    width: 20%;
+    height: 140px; 
+
+
+}
+.fifth2{
+    background-color: white;
+    width: 20%;
+    height: 140px; 
+
+}
+.six2{
+    background-color: black;
+    width: 20%;
+    height: 140px; 
+
+
+}
+
+
+
+
+

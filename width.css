@@ -1,0 +1,68 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins";
+}    
+  
+.one
+{
+    background-color: #fd6600;
+    color: white;    
+    padding: 20px;
+    margin: top 100px;
+    text-align: center;
+    font-size: 25px;
+    height: 250px;
+    border-radius: 26px;   
+    
+    
+}
+.two
+
+{
+    
+    background-color: #fd6600;
+    color: white;    
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+    height: 400px;
+    width: 500px;
+    border-radius: 26px;
+   
+
+}
+.three
+{
+    background-color: #3B3465;
+    color: white;    
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+    height: 550px;
+    width: 500px;
+    border-radius: 26px;
+    
+}
+.one p
+{
+    text-align: justify;
+}
+.two p
+{
+    text-align: justify;
+}
+.three p
+{
+    text-align: justify;
+}
+.jatin
+{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin: 30px;
+}

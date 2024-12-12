@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.main{
+    display: flex;
+
+}
+.one{
+    border: 50px solid black;
+    width: 100%;
+    height: 160px;
+    background-color: black;
+}
+.two{
+    border: 50px solid white;
+    width: 100%;
+    height: 160px;
+
+
+}

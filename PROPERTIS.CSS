@@ -1,0 +1,55 @@
+h1
+{
+    color: burlywood;
+    background-color: black;
+    border: 10px dashed maroon;
+    padding: 10px ;
+    margin: 10px;
+    text-align: center;
+    text-decoration:overline;
+    text-transform: capitalize;
+    font-size: 120px;
+    font: weight 1000px;
+}
+h2
+{
+    color: chocolate;
+    background-color: blue;
+    border: 10px solid yellow;
+    padding: 10px 20px;
+    margin: 20 px;
+    text-align: right;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+p
+{
+    color: green;
+    background-color: black;
+    border: 10px dotted red;
+    padding: 10px 20px 30px;
+    margin:botom 400px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+a
+{
+    color: brown;
+    background-color: fuchsia;
+    border: 5px solid mediumblue;
+    padding: 10px 20px 30px 40px;
+    text-align: right;
+    text-decoration: none;
+}
+h3
+{
+    color: chocolate;
+    background-color: crimson;
+    border: 10px solid;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+
+}
