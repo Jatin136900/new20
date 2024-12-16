@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 48px 0 48px;
+    height: 90px;
+    background-color: red;
+}
+.header ul{
+    display: flex;
+    list-style: none;
+    
+}
+.header ul a{
+    padding: 0 7px;
+    margin: 0 5px;
+    text-decoration: none;
+}
+button{
+    padding-left: 20px ;
+    border-radius: 8px;
+    width: 70px;
+    padding-right: 20px;
+    color: black;
+    height: 25px;
+   
+}
+
